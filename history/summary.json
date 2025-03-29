@@ -22,7 +22,7 @@
     "url": "https://api.suanli.cn",
     "icon": "https://icons.duckduckgo.com/ip3/api.suanli.cn.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1215,
     "timeMonth": 1232,
     "timeYear": 1232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-29": 0
+    }
   },
   {
     "name": "Chat",
