@@ -1,7 +1,7 @@
 url: https://api.suanli.cn
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-10T08:33:39.565Z
+status: up
+code: 200
+responseTime: 1679
+lastUpdated: 2025-04-10T09:19:23.785Z
 startTime: 2025-03-12T07:31:29.491Z
 generator: Upptime <https://github.com/upptime/upptime>
