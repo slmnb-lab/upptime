@@ -25,12 +25,12 @@
     "status": "up",
     "uptime": "96.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.55%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "95.55%",
     "uptimeYear": "96.25%",
     "time": 1372,
     "timeDay": 1786,
-    "timeWeek": 1653,
+    "timeWeek": 1651,
     "timeMonth": 1405,
     "timeYear": 1372,
     "dailyMinutesDown": {
@@ -63,19 +63,19 @@
     "url": "https://flux.comnergy.com",
     "icon": "https://icons.duckduckgo.com/ip3/flux.comnergy.com.ico",
     "slug": "flux",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1021,
-    "timeDay": 1021,
-    "timeWeek": 1021,
-    "timeMonth": 1021,
-    "timeYear": 1021,
+    "status": "up",
+    "uptime": "80.83%",
+    "uptimeDay": "80.83%",
+    "uptimeWeek": "80.83%",
+    "uptimeMonth": "80.83%",
+    "uptimeYear": "80.83%",
+    "time": 1155,
+    "timeDay": 1155,
+    "timeWeek": 1155,
+    "timeMonth": 1155,
+    "timeYear": 1155,
     "dailyMinutesDown": {
-      "2025-04-17": 0
+      "2025-04-17": 68
     }
   }
 ]
