@@ -9,6 +9,8 @@ sites:
     url: https://api.suanli.cn
   - name: Chat
     url: https://chat.aigpu.cn
+  - name: Flux
+    url: https://flux.comnergy.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
