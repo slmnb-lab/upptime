@@ -49,9 +49,9 @@
     "url": "https://chat.aigpu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/chat.aigpu.cn.ico",
     "slug": "chat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -60,7 +60,9 @@
     "timeWeek": 1127,
     "timeMonth": 1075,
     "timeYear": 1343,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-08": 0
+    }
   },
   {
     "name": "Flux",
