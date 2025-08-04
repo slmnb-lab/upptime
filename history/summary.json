@@ -4,19 +4,19 @@
     "url": "https://qwq.aigpu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/qwq.aigpu.cn.ico",
     "slug": "qwq",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2030,
-    "timeDay": 2179,
-    "timeWeek": 2030,
-    "timeMonth": 2065,
-    "timeYear": 2030,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
+    "time": 2031,
+    "timeDay": 2138,
+    "timeWeek": 2038,
+    "timeMonth": 2066,
+    "timeYear": 2031,
     "dailyMinutesDown": {
-      "2025-08-04": 0
+      "2025-08-04": 34
     }
   },
   {
