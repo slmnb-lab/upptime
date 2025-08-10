@@ -11,9 +11,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 2031,
-    "timeDay": 1925,
-    "timeWeek": 2043,
-    "timeMonth": 2060,
+    "timeDay": 2035,
+    "timeWeek": 2064,
+    "timeMonth": 2065,
     "timeYear": 2031,
     "dailyMinutesDown": {
       "2025-08-04": 34
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.suanli.cn.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "98.27%",
+    "uptime": "98.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.27%",
+    "uptimeYear": "98.29%",
     "time": 1458,
-    "timeDay": 1292,
-    "timeWeek": 1374,
-    "timeMonth": 1505,
+    "timeDay": 1322,
+    "timeWeek": 1362,
+    "timeMonth": 1503,
     "timeYear": 1458,
     "dailyMinutesDown": {
       "2025-07-08": 21,
@@ -61,9 +61,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1247,
-    "timeDay": 1164,
-    "timeWeek": 1198,
-    "timeMonth": 1188,
+    "timeDay": 1281,
+    "timeWeek": 1185,
+    "timeMonth": 1189,
     "timeYear": 1247,
     "dailyMinutesDown": {
       "2025-06-08": 20
@@ -80,11 +80,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1269,
-    "timeDay": 1355,
-    "timeWeek": 1270,
-    "timeMonth": 1323,
-    "timeYear": 1269,
+    "time": 1270,
+    "timeDay": 1385,
+    "timeWeek": 1286,
+    "timeMonth": 1329,
+    "timeYear": 1270,
     "dailyMinutesDown": {
       "2025-04-17": 68
     }
